@@ -1,0 +1,51 @@
+# Dependências do Node
+node_modules/
+jspm_packages/
+
+# Arquivos de Build/Compilação e Pastas Temporárias
+dist/
+build/
+out/
+.tmp/
+.sass-cache/
+
+# Logs e Depuração
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# Variáveis de Ambiente e Segredos (Segurança)
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+*.pem
+*.key
+
+# Pastas de IDEs e Editores de Código
+.vscode/
+!.vscode/extensions.json
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+
+# Arquivos do Sistema Operacional
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+Desktop.ini
+.DS_Store
+
+# Cache da IA e Ferramentas Antigravity
+.gemini/
+.system_generated/
+walkthrough.md
+task.md
+implementation_plan.md

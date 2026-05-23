@@ -1,0 +1,22 @@
+{
+  "name": "mariana-lins-odontologia-landing-page",
+  "version": "1.0.0",
+  "description": "Landing Page Premium para clínica odontológica Dra. Mariana Lins.",
+  "main": "index.html",
+  "scripts": {
+    "dev": "serve -l 3000",
+    "start": "serve -l 3000"
+  },
+  "keywords": [
+    "odontologia",
+    "landing-page",
+    "premium",
+    "html",
+    "css"
+  ],
+  "author": "Mariana Lins Odontologia",
+  "license": "MIT",
+  "dependencies": {
+    "serve": "^14.2.3"
+  }
+}
